@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Llave
+  - Monedas
+  - Jugador
+  - Enemigo
+  - Arma
+  - Destruible
+  - Puerta 0
+  - Punto de ruta 0
+  - oSalud
+  - oVelocidad
+  - oEscudo
+  - "oDa\xF1o"
+  - Lava
+  - Spawn
+  - Puerta 1
+  - Puerta 3
+  - Puerta 4
+  - Puerta 5
+  - Puerta 6
+  - Puerta 2
+  - Cofre
+  - Pinchos
+  - suelo
+  - FxTemporaire
+  - PuntoRuta4
+  - PuntoRuta5
+  - Punto de ruta 1
+  - Punto de ruta 5
+  - Punto de ruta 4
+  - Punto de ruta 3
+  - Punto de ruta 2
+  - Win
+  - Siguiente
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
